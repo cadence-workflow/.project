@@ -1,0 +1,33 @@
+# Maintainer roster for Cadence Workflow
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+#  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
+maintainers:
+  - project_id: "cadence"
+    org: "cadence-workflow"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - demirkayaender
+          - dkrotx
+          - abhishekj720
+          - adhityamamallan
+          - ribaraka
+          - Assem-Hafez
+          - bowenxia
+          - c-warren
+          - zawadzkidiana
+          - YaweiZhang-930
+          - eleonoradgr
+          - fimanishi
+          - gazi-yestemirova
+          - jakobht
+          - Bueller87
+          - natemort
+          - neil-xie
+          - shijiesheng
+          - macrotim
+          - timl3136
+          - arzonus
+          - Shaddoll
