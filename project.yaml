@@ -25,7 +25,7 @@ repositories:
 
 website: "https://cadenceworkflow.io/"
 
-artwork: "https://landscape.cncf.io/logos/cadenceworkflow.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/cadence"
 
 adopters:
   path: "https://github.com/cadence-workflow/cadence/blob/master/ADOPTERS.md"
